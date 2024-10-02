@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/joseareia/ipleiria-report/graphs/commit-activity)
 
 ### Description
-Optimize your academic document creation with this LaTeX template tailored for reports at the [Polytechnic University of Leiria](https://www.ipleiria.pt/). Tailored specifically for students within the School of Management and Technology (ESTG), this template guarantees a refined, timeless, and professionally formatted document. With its clean and classic aesthetic, navigating through the template is exceptionally straightforward, making document creation a seamless and efficient endeavor. Curious? Explore the [demo](https://www.overleaf.com/latex/templates/unofficial-polytechnic-university-of-leiria-estg-thesis-slash-report-template/tqgbrncfhwgt.pdf) to see more!
+Optimize your academic document creation with this LaTeX template tailored for reports at the [Polytechnic University of Leiria](https://www.ipleiria.pt/). Tailored specifically for students within the School of Management and Technology (ESTG), this template guarantees a refined, timeless, and professionally formatted document. With its clean and classic aesthetic, navigating through the template is exceptionally straightforward, making document creation a seamless and efficient endeavor. Curious? Explore the [demo](https://www.overleaf.com/latex/templates/polytechnic-university-of-leiria-report-template/kknjfbqmffqg.pdf) to see more!
 
 <p float="left">
   <img src="https://github.com/joseareia/ipleiria-report/blob/master/Assets/01_B.png" width="400"/>
@@ -25,7 +25,7 @@ To utilise this template, please follow the steps below.
 3. Compile the document with you favorite LaTeX processor (pdfLaTeX, XeLaTeX or LuaLaTeX)!
 
 > [!TIP]
-> To make the most of this template and for real-time collaboration, I highly recommend using [Overleaf](https://www.overleaf.com/home-2). You can access the ready-to-use template by clicking [here](https://www.overleaf.com/latex/templates/unofficial-polytechnic-university-of-leiria-estg-thesis-slash-report-template/tqgbrncfhwgt).
+> To make the most of this template and for real-time collaboration, I highly recommend using [Overleaf](https://www.overleaf.com/home-2). You can access the ready-to-use template by clicking [here](https://www.overleaf.com/latex/templates/polytechnic-university-of-leiria-report-template/kknjfbqmffqg).
 
 ### Content Overview
 This repository has the following structure.
